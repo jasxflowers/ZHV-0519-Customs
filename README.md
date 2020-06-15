@@ -30,6 +30,8 @@ To make the information for the valves more readily accessible - as Zonhen only 
 
 ### General Features
 
+* **Total weight:** 17g
+* **Voltage:** 3-48 VDC or 24-220 VAC
 * **Pressure:** 0-375 mmHg / 0-0.5 Bar
 * **Fluid medium:** Air (but can work with some liquids according to me lol)
 * **Life cycle:** 1,000,000 cycles (on 1 second, off 1 second)
