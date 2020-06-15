@@ -10,17 +10,40 @@ This repository is an ongoing set of 3d-printed customizations for the ZHV-0519 
 
 If using liquids, make sure the liquid is not corrosive and that the liquid is not kept in the body orifice of the valve for extended periods of time (e.g. days is my guess). The stopper and spring come into direct contact with the liquids, which means corrosion could affect the performance of the valve. In this case, unplug the valve, remove the cap, and clean all the parts carefully.
 
-## 2-port, 2-way, Normally Open cap
+## Caps
+
+### 2-port, 2-way, Normally Open
 
 ![2P2W_NO_Cap](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P2W_NO_Cap.png)
 
 This design is most similar to Zonhen's Seat A interface for the solenoid valve. 
 
-## 3-port, 2-way, Normally Closed cap
+### 3-port, 2-way, Normally Closed
 
 ![3P2W_Cap](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P2W_Cap.PNG)
 
 This is the default Seat B interface. The key difference is the addition of a barb for the top port, which is not usually available with Zonhen's cap.
+
+## Valve Details
+
+To make the information for the valves more readily accessible - as Zonhen only provides it as an image - I've copied it over as tables below.
+
+### General Features
+
+* **Pressure:** 0-375 mmHg / 0-0.5 Bar
+* **Fluid medium:** Air (but can work with some liquids according to me lol)
+* **Life cycle:** 1,000,000 cycles (on 1 second, off 1 second)
+* **Insulation class:** Class B
+
+### Coil Data
+
+| Duty cycle            | 100%     | 50%  | 25%  | 10%  |
+| --------------------- | -------- | ---- | ---- | ---- |
+| Maximum "on" time (s) | $\infty$ | 55   | 19   | 3    |
+| Watts at 20*C         | 1.6      | 3.2  | 5.4  | 16   |
+| Ampere-turns at 20*C  | 300      | 424  | 600  | 948  |
+
+
 
 ## Licensing
 
