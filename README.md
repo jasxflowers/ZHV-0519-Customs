@@ -39,11 +39,11 @@ To make the information for the valves more readily accessible - as Zonhen only 
 
 ### Coil Data
 
-| Duty cycle            | 100%     | 50%  | 25%  | 10%  |
-| --------------------- | -------- | ---- | ---- | ---- |
-| Maximum "on" time (s) | $\infty$ | 55   | 19   | 3    |
-| Watts at 20*C         | 1.6      | 3.2  | 5.4  | 16   |
-| Ampere-turns at 20*C  | 300      | 424  | 600  | 948  |
+| Duty cycle            | 100% | 50%  | 25%  | 10%  |
+| --------------------- | ---- | ---- | ---- | ---- |
+| Maximum "on" time (s) | ∞    | 55   | 19   | 3    |
+| Watts at 20*C         | 1.6  | 3.2  | 5.4  | 16   |
+| Ampere-turns at 20*C  | 300  | 424  | 600  | 948  |
 
 
 
