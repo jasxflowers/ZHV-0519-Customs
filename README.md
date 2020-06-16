@@ -12,6 +12,10 @@ If using liquids, make sure the liquid is not corrosive and that the liquid is n
 
 ## Caps
 
+<center><img src="https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/Valve_PortLabels.png" alt="ZHV-5019 valve with ports labeled." width="500px"><br>
+ZHV-5019 valve with ports labeled.
+</center>
+
 ### 2-port, 2-way, Normally Open
 
 ![Render of the 3-port, 2-way, Normally Open cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P2W_NO_Cap.png)
