@@ -14,13 +14,17 @@ If using liquids, make sure the liquid is not corrosive and that the liquid is n
 
 ### 2-port, 2-way, Normally Open
 
-![2P2W_NO_Cap](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P2W_NO_Cap.png)
+![Render of the 3-port, 2-way, Normally Open cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P2W_NO_Cap.png)
+
+![Illustration of the 2-port, 2-way, Normally Open cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P_2W_NO_Illustration.PNG)
 
 This design is most similar to Zonhen's Seat A interface for the solenoid valve. 
 
 ### 3-port, 2-way, Normally Closed
 
-![3P2W_Cap](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P2W_Cap.PNG)
+![Render of the 3-port, 2-way, Normally Closed cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P2W_Cap.PNG)
+
+![Illustration of the 3-port, 2-way, Normally Closed cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P_2W_NC_Illustration.PNG)
 
 This is the default Seat B interface. The key difference is the addition of a barb for the top port, which is not usually available with Zonhen's cap.
 
