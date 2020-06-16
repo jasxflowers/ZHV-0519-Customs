@@ -49,4 +49,4 @@ To make the information for the valves more readily accessible - as Zonhen only 
 
 ## Licensing
 
-This documentation describes Open Hardware and is under the MIT License.
+This documentation describes Open Hardware made for [_Perfect Melon_](https://jasbrooks.net/perfect-melon)–with the support from the [UChicago Arts](https://arts.uchicago.edu)–and is under the MIT License.
