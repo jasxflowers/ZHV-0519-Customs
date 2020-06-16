@@ -22,7 +22,7 @@ This design is most similar to Zonhen's Seat A interface for the solenoid valve.
 
 ### 3-port, 2-way, Normally Closed
 
-![Render of the 3-port, 2-way, Normally Closed cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P2W_Cap.png)
+![Render of the 3-port, 2-way, Normally Closed cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P2W_Cap.PNG)
 
 <img src="https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P_2W_NC_Illustration.png" alt="Hydraulic drawing of the 3-port, 2-way, Normally Closed cap." width="200px">
 
