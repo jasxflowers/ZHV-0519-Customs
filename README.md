@@ -36,6 +36,8 @@ This is the default Seat B interface. The key difference is the addition of a ba
 
 ![Render of Barbed cover for port R.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/Barbed_Cover.png)
 
+![Example of barbed cover and 3-port, 2-way, NC cap on a valve.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/Barbed_Cover_example.png)
+
 If you are like me, you might be frustrated because port R does not have a barb and you don't have a tube with the right ID to fit over it snuggly. Here's a barbed cover that fits over port R, and is fully parametric. Note: you'll have to make sure the minimum wall thickness matches your 3D printer's capabilities.
 
 Unfortunately, this means that your tube's ID needs to stretch over a 3mm OD port at minimum. The cover adds a small amount of thickness to the port (by default 0.6mm).
