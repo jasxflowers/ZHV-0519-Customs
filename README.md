@@ -32,6 +32,14 @@ This design is most similar to Zonhen's Seat A interface for the solenoid valve.
 
 This is the default Seat B interface. The key difference is the addition of a barb for the top port, which is not usually available with Zonhen's cap.
 
+### Port R Barbed Cover
+
+![Render of Barbed cover for port R.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/Barbed_Cover.png)
+
+If you are like me, you might be frustrated because port R does not have a barb and you don't have a tube with the right ID to fit over it snuggly. Here's a barbed cover that fits over port R, and is fully parametric. Note: you'll have to make sure the minimum wall thickness matches your 3D printer's capabilities.
+
+Unfortunately, this means that your tube's ID needs to stretch over a 3mm OD port at minimum. The cover adds a small amount of thickness to the port (by default 0.6mm).
+
 ## Valve Details
 
 To make the information for the valves more readily accessible - as Zonhen only provides it as an image - I've copied it over as tables below.
