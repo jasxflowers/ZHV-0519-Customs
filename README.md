@@ -1,5 +1,5 @@
 # ZHV-0519 Customizations
-This repository is an ongoing set of 3d-printed customizations for the ZHV-0519 solenoid valve (Zonhen Electric Appliances). Currently includes files for: a 2-port 2-way Normally Open cap and a 3-port 2-way Normally Closed cap (default when purchasing online). Both files are fully parametric and meant for Autodesk Fusion 360. [Original documentation for the valve can be found here.](http://www.zonhen.com/solenoid/ZHV-0519-en.html) 
+This repository is an ongoing set of 3d-printed customizations for the ZHV-0519 pull-type linear solenoid valve (Zonhen Electric Appliances). Currently includes files for: a 2-port 2-way Normally Open cap and a 3-port 2-way Normally Closed cap (default when purchasing online). Both files are fully parametric and meant for Autodesk Fusion 360. [Original documentation for the valve can be found here.](http://www.zonhen.com/solenoid/ZHV-0519-en.html) 
 
 ## Repository Structure
 
@@ -63,7 +63,15 @@ To make the information for the valves more readily accessible - as Zonhen only 
 | Watts at 20*C         | 1.6  | 3.2  | 5.4  | 16   |
 | Ampere-turns at 20*C  | 300  | 424  | 600  | 948  |
 
+## Miscellaneous
 
+These are mostly notes for myself as someone who hasn't played with these devices super often. I'll most likely be trying and comparing hardware that I want to use in conjunction with the ZHV-0519.
+
+* Hardware that seems to be useful for the ZHV-0519 (to try for myself)
+  * [Using DRV to Drive Solenoids](https://www.ti.com/lit/an/slvae59/slvae59.pdf) 
+  * **DRV2510-Q1:** 3-A Automotive Haptic Driver for Solenoids with Integrated Diagnostics ([datasheet](https://www.ti.com/lit/ds/symlink/drv2510-q1.pdf)).
+  * **DRV8860x:** 38-V 8-Channel Serial Interface Low-Side Driver ([datasheet](https://www.ti.com/lit/ds/symlink/drv8860.pdf)).
+  * **DRV8343-Q1** 
 
 ## Licensing
 
