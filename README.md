@@ -48,8 +48,9 @@ To make the information for the valves more readily accessible - as Zonhen only 
 
 ### General Features
 
-* **Total weight:** 17g
+* **Total weight:** 17 g
 * **Voltage:** 3-48 VDC or 24-220 VAC
+* **Current:** 220 mA
 * **Pressure:** 0-375 mmHg / 0-0.5 Bar
 * **Fluid medium:** Air (but can work with some liquids according to me lol)
 * **Life cycle:** 1,000,000 cycles (on 1 second, off 1 second)
@@ -70,9 +71,10 @@ These are mostly notes for myself as someone who hasn't played with these device
 * Hardware that seems to be useful for the ZHV-0519 (to try for myself)
   * [Using DRV to Drive Solenoids](https://www.ti.com/lit/an/slvae59/slvae59.pdf) 
   * **DRV2510-Q1:** 3-A Automotive Haptic Driver for Solenoids with Integrated Diagnostics ([datasheet](https://www.ti.com/lit/ds/symlink/drv2510-q1.pdf)).
-  * **DRV8860x:** 38-V 8-Channel Serial Interface Low-Side Driver ([datasheet](https://www.ti.com/lit/ds/symlink/drv8860.pdf)).
+  * **DRV8860x:** 38-V 8-Channel Serial Interface Low-Side Driver ([datasheet](https://www.ti.com/lit/ds/symlink/drv8860.pdf)). Interested in this one
   * **DRV8343-Q1** 
+  * **DRV8876:** Interested in this for it's current regulation features and fault feedback. Mostly for 1-2 solenoid driving in devices.
 
 ## Licensing
 
-This documentation describes Open Hardware made for [_Perfect Melon_](https://jasbrooks.net/perfect-melon) with the support from the [UChicago Arts](https://arts.uchicago.edu) and is under the MIT License.
+This documentation describes Open Hardware made for [_Perfect Melon_](https://jasbrooks.net/perfect-melon) (with the support from the [UChicago Arts](https://arts.uchicago.edu)) as well as ongoing Human Computer Integration Lab projects, and is under the MIT License.
