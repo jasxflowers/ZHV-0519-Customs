@@ -80,6 +80,7 @@ These are mostly notes for myself as someone who hasn't played with these device
   * **DRV8860x:** 38-V 8-Channel Serial Interface Low-Side Driver ([datasheet](https://www.ti.com/lit/ds/symlink/drv8860.pdf)). Interested in this one for flavor interface.
   * **DRV8343-Q1** 
   * **DRV8876:** Interested in this for it's current regulation features and fault feedback. Mostly for 1-2 solenoid driving in devices.
+  * **Smart Switches (SiP32429)**.
 
 ## 5: To-do
 
