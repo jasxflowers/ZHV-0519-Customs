@@ -1,7 +1,7 @@
 # ZHV-0519 Customizations
 ![Render of the ZHV-0519 solenoid valve without a cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/ZHV-0519_Body.png)
 
-This repository is an ongoing set of 3d-printed customizations for the ZHV-0519 pull-type linear solenoid valve (Zonhen Electric Appliances). Currently includes files for: a 2-port 2-way Normally Open cap and a 3-port 2-way Normally Closed cap (default when purchasing online). Both files are fully parametric and meant for Autodesk Fusion 360. [Original documentation for the valve can be found here.](http://www.zonhen.com/solenoid/ZHV-0519-en.html) 
+This repository is an ongoing set of 3d-printed customizations for the ZHV-0519 pull-type linear solenoid valve (Zonhen Electric Appliances). Currently includes files for: a 2-way, 2-position, Normally Open cap and a 3-way, 2-position, Normally Closed cap (default when purchasing online). Both files are fully parametric and meant for Autodesk Fusion 360. [Original documentation for the valve can be found here.](http://www.zonhen.com/solenoid/ZHV-0519-en.html) 
 
 ## 1: Repository Structure
 
@@ -15,19 +15,19 @@ This repository is an ongoing set of 3d-printed customizations for the ZHV-0519 
 ZHV-5019 valve with ports labeled.
 </center>
 
-### 2.1: 2-port, 2-way, Normally Open
+### 2.1: 2-way, 2-position, Normally Open
 
-![Render of the 3-port, 2-way, Normally Open cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P2W_NO_Cap.png)
+![Render of the 2-way, 2-position, Normally Open cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P2W_NO_Cap.png)
 
-<img src="https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P_2W_NO_Illustration.png" alt="Hydraulic drawing of the 2-port, 2-way, Normally Open cap." width="200px">
+<img src="https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P_2W_NO_Illustration.png" alt="Hydraulic drawing of the 2-way, 2-position, Normally Open cap." width="200px">
 
 This design is most similar to Zonhen's Seat A interface for the solenoid valve. 
 
-### 2.2: 3-port, 2-way, Normally Closed
+### 2.2: 3-way, 2-position, Normally Closed
 
-![Render of the 3-port, 2-way, Normally Closed cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P2W_Cap.PNG)
+![Render of the 3-way, 2-position, Normally Closed cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P2W_Cap.PNG)
 
-<img src="https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P_2W_NC_Illustration.png" alt="Hydraulic drawing of the 3-port, 2-way, Normally Closed cap." width="200px">
+<img src="https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P_2W_NC_Illustration.png" alt="Hydraulic drawing of the 3-way, 2-position, Normally Closed cap." width="200px">
 
 This is the default Seat B interface. The key difference is the addition of a barb for the top port, which is not usually available with Zonhen's cap.
 
