@@ -1,4 +1,6 @@
 # ZHV-0519 Customizations
+![Render of the ZHV-0519 solenoid valve without a cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/ZHV-0519_Body.png)
+
 This repository is an ongoing set of 3d-printed customizations for the ZHV-0519 pull-type linear solenoid valve (Zonhen Electric Appliances). Currently includes files for: a 2-port 2-way Normally Open cap and a 3-port 2-way Normally Closed cap (default when purchasing online). Both files are fully parametric and meant for Autodesk Fusion 360. [Original documentation for the valve can be found here.](http://www.zonhen.com/solenoid/ZHV-0519-en.html) 
 
 ## 1: Repository Structure
@@ -40,8 +42,6 @@ If you are like me, you might be frustrated because port R does not have a barb 
 Unfortunately, this means that your tube's ID needs to stretch over a 3mm OD port at minimum. The cover adds a small amount of thickness to the port (by default 0.6mm).
 
 ## 3: Valve Details
-
-![Render of the ZHV-0519 solenoid valve without a cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/ZHV-0519_Body.png)
 
 <img src="https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/Body_CrossSection.png" alt="Cross-section of ZHV-0519 body with spring and plunger." width="500px">
 
