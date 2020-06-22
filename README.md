@@ -49,7 +49,7 @@ Unfortunately, this means that your tube's ID needs to stretch over a 3mm OD por
 
 ### General Features
 
-* **Valve type:** Pull-type linear solenoid valve.
+* **Valve type:** Pull-type linear solenoid valve
 * **Total weight:** 17 g
 * **Voltage:** 3-48 VDC or 24-220 VAC
 * **Current:** 220 mA
