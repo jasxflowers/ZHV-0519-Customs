@@ -5,10 +5,7 @@ This repository is an ongoing set of 3d-printed customizations for the ZHV-0519 
 
 * `Parametric models` contains Autodesk Fusion 360 models for each caps and are fully parametric.
 * `Static models` contains STL files for each cap.
-
-## Maintenance
-
-If using liquids, make sure the liquid is not corrosive and that the liquid is not kept in the body orifice of the valve for extended periods of time (e.g. days is my guess). The stopper and spring come into direct contact with the liquids, which means corrosion could affect the performance of the valve. In this case, unplug the valve, remove the cap, and clean all the parts carefully.
+* `Body` contains files for the valve's main body (e.g. for modeling enclosures).
 
 ## Caps
 
@@ -44,6 +41,8 @@ Unfortunately, this means that your tube's ID needs to stretch over a 3mm OD por
 
 ## Valve Details
 
+![Render of the ZHV-0519 solenoid valve without a cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/ZHV-0519_Body.png)
+
 To make the information for the valves more readily accessible - as Zonhen only provides it as an image - I've copied it over as tables below.
 
 ### General Features
@@ -63,6 +62,10 @@ To make the information for the valves more readily accessible - as Zonhen only 
 | Maximum "on" time (s) | ∞    | 55   | 19   | 3    |
 | Watts at 20*C         | 1.6  | 3.2  | 5.4  | 16   |
 | Ampere-turns at 20*C  | 300  | 424  | 600  | 948  |
+
+### Maintenance
+
+If using liquids, make sure the liquid is not corrosive and that the liquid is not kept in the body orifice of the valve for extended periods of time (e.g. days is my guess). The stopper and spring come into direct contact with the liquids, which means corrosion could affect the performance of the valve. In this case, unplug the valve, remove the cap, and clean all the parts carefully.
 
 ## Miscellaneous
 
