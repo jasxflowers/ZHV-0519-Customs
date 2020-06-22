@@ -1,19 +1,19 @@
 # ZHV-0519 Customizations
 This repository is an ongoing set of 3d-printed customizations for the ZHV-0519 pull-type linear solenoid valve (Zonhen Electric Appliances). Currently includes files for: a 2-port 2-way Normally Open cap and a 3-port 2-way Normally Closed cap (default when purchasing online). Both files are fully parametric and meant for Autodesk Fusion 360. [Original documentation for the valve can be found here.](http://www.zonhen.com/solenoid/ZHV-0519-en.html) 
 
-## Repository Structure
+## 1: Repository Structure
 
 * `Parametric models` contains Autodesk Fusion 360 models for each caps and are fully parametric.
 * `Static models` contains STL files for each cap.
 * `Body` contains files for the valve's main body (e.g. for modeling enclosures).
 
-## Caps
+## 2: Caps
 
 <center><img src="https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/Valve_PortLabels.png" alt="ZHV-5019 valve with ports labeled." width="500px"><br>
 ZHV-5019 valve with ports labeled.
 </center>
 
-### 2-port, 2-way, Normally Open
+### 2.1: 2-port, 2-way, Normally Open
 
 ![Render of the 3-port, 2-way, Normally Open cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/2P2W_NO_Cap.png)
 
@@ -21,7 +21,7 @@ ZHV-5019 valve with ports labeled.
 
 This design is most similar to Zonhen's Seat A interface for the solenoid valve. 
 
-### 3-port, 2-way, Normally Closed
+### 2.2: 3-port, 2-way, Normally Closed
 
 ![Render of the 3-port, 2-way, Normally Closed cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/3P2W_Cap.PNG)
 
@@ -29,7 +29,7 @@ This design is most similar to Zonhen's Seat A interface for the solenoid valve.
 
 This is the default Seat B interface. The key difference is the addition of a barb for the top port, which is not usually available with Zonhen's cap.
 
-### Port R Barbed Cover
+### 2.3: Port R Barbed Cover
 
 ![Render of Barbed cover for port R.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/Barbed_Cover.png)
 
@@ -39,7 +39,7 @@ If you are like me, you might be frustrated because port R does not have a barb 
 
 Unfortunately, this means that your tube's ID needs to stretch over a 3mm OD port at minimum. The cover adds a small amount of thickness to the port (by default 0.6mm).
 
-## Valve Details
+## 3: Valve Details
 
 ![Render of the ZHV-0519 solenoid valve without a cap.](https://github.com/jasxflowers/ZHV-0519-Customs/blob/master/Images/ZHV-0519_Body.png)
 
@@ -47,7 +47,7 @@ Unfortunately, this means that your tube's ID needs to stretch over a 3mm OD por
 
 
 
-### General Features
+### 3.1: General Features
 
 * **Valve type:** Pull-type linear solenoid valve
 * **Total weight:** 17 g
@@ -58,7 +58,7 @@ Unfortunately, this means that your tube's ID needs to stretch over a 3mm OD por
 * **Life cycle:** 1,000,000 cycles (on 1 second, off 1 second)
 * **Insulation class:** Class B
 
-### Coil Data
+### 3.2: Coil Data
 
 | Duty cycle            | 100% | 50%  | 25%  | 10%  |
 | --------------------- | ---- | ---- | ---- | ---- |
@@ -66,11 +66,11 @@ Unfortunately, this means that your tube's ID needs to stretch over a 3mm OD por
 | Watts at 20*C         | 1.6  | 3.2  | 5.4  | 16   |
 | Ampere-turns at 20*C  | 300  | 424  | 600  | 948  |
 
-### Maintenance
+### 3.3: Maintenance
 
 If using liquids, make sure the liquid is not corrosive and that the liquid is not kept in the body orifice of the valve for extended periods of time (e.g. days is my guess). The stopper and spring come into direct contact with the liquids, which means corrosion could affect the performance of the valve. In this case, unplug the valve, remove the cap, and clean all the parts carefully.
 
-## Miscellaneous
+## 4: Peripheral hardware
 
 These are mostly notes for myself as someone who hasn't played with these devices super often. I'll most likely be trying and comparing hardware that I want to use in conjunction with the ZHV-0519.
 
@@ -81,6 +81,12 @@ These are mostly notes for myself as someone who hasn't played with these device
   * **DRV8343-Q1** 
   * **DRV8876:** Interested in this for it's current regulation features and fault feedback. Mostly for 1-2 solenoid driving in devices.
 
-## Licensing
+## 5: To-do
+
+- [x] Add valve body files.
+- [ ] Explain basic mechanism and how the plunger affects the ports.
+- [ ] Describe some peripheral hardware suggestions for beginners.
+
+## 6: Licensing
 
 This documentation describes Open Hardware made for [_Perfect Melon_](https://jasbrooks.net/perfect-melon) (with the support from the [UChicago Arts](https://arts.uchicago.edu)), and is under the MIT License.
